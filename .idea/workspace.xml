@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4517a502-cdc2-474c-b88c-36b65aeb3475" name="Default Changelist" comment="" />
+    <list default="true" id="4517a502-cdc2-474c-b88c-36b65aeb3475" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Avg_AQI_by_Month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/County_FIPS_to_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tavg_csv_to_sql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AQI_by_County_1970_2021.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/csv_to_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/AQI_csv_to_sql.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1tUeVSawKicG5uvK2lsGOEt5qjD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="aws" />
   </component>
   <component name="RecentsManager">
@@ -22,7 +43,70 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.csv_to_sql">
+  <component name="RunManager" selected="Python.plot">
+    <configuration name="AQI_csv_to_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AQI_Heatmap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AQI_csv_to_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="County_FIPS_to_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AQI_Heatmap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/County_FIPS_to_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Tavg_csv_to_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AQI_Heatmap" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tavg_csv_to_sql.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AQI_Heatmap" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -44,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="csv_to_sql" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AQI_Heatmap" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,7 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/csv_to_sql.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,11 +151,17 @@
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.csv_to_sql" />
+      <item itemvalue="Python.AQI_csv_to_sql" />
+      <item itemvalue="Python.Tavg_csv_to_sql" />
+      <item itemvalue="Python.County_FIPS_to_sql" />
+      <item itemvalue="Python.plot" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.csv_to_sql" />
+        <item itemvalue="Python.plot" />
+        <item itemvalue="Python.AQI_csv_to_sql" />
+        <item itemvalue="Python.County_FIPS_to_sql" />
+        <item itemvalue="Python.Tavg_csv_to_sql" />
       </list>
     </recent_temporary>
   </component>
@@ -89,25 +179,35 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="56" y="57" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623097337158">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state x="56" y="57" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623885990496">
+      <screen x="0" y="23" width="1280" height="732" />
     </state>
+    <state x="56" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.732@0.23.1280.732" timestamp="1623885990496" />
+    <state x="56" y="57" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.733@0.23.1280.733" timestamp="1623885556026" />
     <state x="56" y="57" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.734@0.23.1280.734" timestamp="1623097337158" />
-    <state width="1010" height="182" key="GridCell.Tab.0.bottom" timestamp="1623098685229">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state x="492" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623885289349">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
+    <state x="492" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.733@0.23.1280.733" timestamp="1623885289349" />
+    <state width="1010" height="182" key="GridCell.Tab.0.bottom" timestamp="1623885608077">
+      <screen x="0" y="23" width="1280" height="733" />
+    </state>
+    <state width="1010" height="182" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1623885608077" />
     <state width="1010" height="182" key="GridCell.Tab.0.bottom/0.23.1280.734@0.23.1280.734" timestamp="1623098685229" />
-    <state width="1010" height="182" key="GridCell.Tab.0.center" timestamp="1623098685228">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1010" height="182" key="GridCell.Tab.0.center" timestamp="1623885608076">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
+    <state width="1010" height="182" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1623885608076" />
     <state width="1010" height="182" key="GridCell.Tab.0.center/0.23.1280.734@0.23.1280.734" timestamp="1623098685228" />
-    <state width="1010" height="182" key="GridCell.Tab.0.left" timestamp="1623098685228">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1010" height="182" key="GridCell.Tab.0.left" timestamp="1623885608076">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
+    <state width="1010" height="182" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1623885608076" />
     <state width="1010" height="182" key="GridCell.Tab.0.left/0.23.1280.734@0.23.1280.734" timestamp="1623098685228" />
-    <state width="1010" height="182" key="GridCell.Tab.0.right" timestamp="1623098685229">
-      <screen x="0" y="23" width="1280" height="734" />
+    <state width="1010" height="182" key="GridCell.Tab.0.right" timestamp="1623885608077">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
+    <state width="1010" height="182" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1623885608077" />
     <state width="1010" height="182" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1623098685229" />
   </component>
 </project>
