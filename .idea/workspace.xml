@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4517a502-cdc2-474c-b88c-36b65aeb3475" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Avg_AQI_by_Month.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/County_FIPS_to_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tavg_csv_to_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AQI_by_County_1970_2021.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_to_sql.py" beforeDir="false" afterPath="$PROJECT_DIR$/AQI_csv_to_sql.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +169,19 @@
       <option name="presentableId" value="Default" />
       <updated>1622828118844</updated>
     </task>
+    <task id="LOCAL-00001" summary="Moved all necessary data to SQL, created reuseable files for doing so">
+      <created>1623886043228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623886043228</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Moved all necessary data to SQL, created reuseable files for doing so" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved all necessary data to SQL, created reuseable files for doing so" />
   </component>
   <component name="WindowStateProjectService">
     <state x="56" y="57" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623885990496">
@@ -189,6 +194,10 @@
       <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state x="492" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.733@0.23.1280.733" timestamp="1623885289349" />
+    <state x="381" y="23" key="CommitChangelistDialog2" timestamp="1623886042927">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="381" y="23" key="CommitChangelistDialog2/0.23.1280.732@0.23.1280.732" timestamp="1623886042927" />
     <state width="1010" height="182" key="GridCell.Tab.0.bottom" timestamp="1623885608077">
       <screen x="0" y="23" width="1280" height="733" />
     </state>
